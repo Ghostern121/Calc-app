@@ -1,6 +1,4 @@
-// Name: Sahil Awatramani
-// PRN: 23070126112
-// Batch: B2
+
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
